@@ -1,0 +1,1 @@
+- code qui marche est detic.py fait par PH
