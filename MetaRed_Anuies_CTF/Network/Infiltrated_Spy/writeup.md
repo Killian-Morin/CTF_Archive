@@ -44,7 +44,7 @@ Content-Disposition: form-data; name="message"
 
 # writeup
 1. Open pcap file in wireshark
-2. Extract libro.js from HTTP objects -> we see how the messages are encrypted
+2. Extract libro.js from HTTP objects -> we see how the messages are encrypted (It was an HTTP webpage (PHP), there had to be a way to encrypt and decrypt in the front)
 3. Write the code to reverse operations
 4. Download the insert-libro.php files and decrypt the strings
 5. Keep trying the different files until you get the flag.
