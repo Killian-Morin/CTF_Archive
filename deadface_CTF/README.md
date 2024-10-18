@@ -17,11 +17,11 @@ I worked on the following categories and challenges:
 - Programming
   - Winning Factors (got the flag)
 - SkyWave
-- Steganography
     - High Tower / SQL (got the flag)
     - Trifecta / SQL (got the flag)
     - Updates / SQL (got the flag)
     - Rabbit Ears / SQL (got the flag)
+- Steganography
 - Phantom Operators
   - Big Fish / Traffic Analysis (got the flag)
   - Right Time / Forensics & Memory Analysis
