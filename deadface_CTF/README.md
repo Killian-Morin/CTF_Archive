@@ -16,9 +16,9 @@ The categories and challenges on which we worked:
   - Social Pressure / Cryptography (got the flag)
   - Logical_Left_and_Rational_Right / Cryptography (got the flag)
 - OSINT
-  - Cup of Compromised Joe (got the flag)
-  - Compromised Immune System (got the flag)
-  - Let's Meet
+  - Cup of Compromised Joe / OSINT (got the flag)
+  - Compromised Immune System / OSINT (got the flag)
+  - Let's Meet / OSINT & Steganography
 - Programming
   - Winning Factors (got the flag)
 - SkyWave
@@ -27,6 +27,8 @@ The categories and challenges on which we worked:
     - 9 Updates / SQL (got the flag)
     - 3 Rabbit Ears / SQL (got the flag)
     - 4 Longest Run / SQL (got the flag)
+    - 5 Connections / SQL (got the flag)
+    - 6 Handoff / SQL
 - Steganography
 - Phantom Operators
   - Big Fish / Traffic Analysis (got the flag)

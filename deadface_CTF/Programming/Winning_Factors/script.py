@@ -14,7 +14,7 @@ p = remote(hostname, port)
 # Read / ignore until the data that we want
 p.recvuntil("Calculate the factorial of")
 # Read the number, strip() to get rid of the spaces, pass from bytes to string and get rid of the trailing '.'
-number = p.recvline().strip().decode()[-1]
+number = p.recvline().strip().decode()[:-1]
 print(f"number: {number}") # Decode the bytes to string
 
 def factorial(n):
