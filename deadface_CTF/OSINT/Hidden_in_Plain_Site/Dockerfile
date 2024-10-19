@@ -6,8 +6,8 @@ RUN pip install --upgrade pip
 
 RUN pip install python-dotenv
 
-RUN pip install --no-cache-dir \
-    pwntools
+# RUN pip install --no-cache-dir \
+    # viz-image-deobfuscate
     # ipython
 
 # Copy '.' into the container at /usr/src/app
