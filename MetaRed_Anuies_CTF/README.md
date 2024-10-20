@@ -1,8 +1,14 @@
-This CTF occured from October 15 to 16.
+# Challenges Resolved
+| Challenge Name | Category |
+| -------------- | -------- |
+| Thermal Camera | Misc |
+| UH HA HA | Network |
+| fancy cipher | Crypto |
 
-I worked on the following challenges:
-- Details (Decoding)
-- Identification (Misc)
-- Thermal Camera (Misc) got the flag
-- Infiltration (Network)
-- Cybro (OSINT)
+# Challenges Attempted
+| Challenge Name | Category |
+| -------------- | -------- |
+| Details | Decoding |
+| Identification | Misc |
+| Infiltration | Network |
+| Cybro | OSINT |
