@@ -1,5 +1,5 @@
 # Challenges Resolved
-We do not include any Welcome or Start Up challenges.
+We do not include any Welcome or Start Up challenges (1 in this CTF).
 | Challenge Name | Category |
 | -------------- | -------- |
 | Cosmopolitan | Forensics |

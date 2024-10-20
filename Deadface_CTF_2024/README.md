@@ -1,39 +1,55 @@
-This CTF started October 18 and finished the 19th (34h).
+# Challenges Resolved
+We do not include any Welcome or Start Up challenges (2 in this CTF).
+| Challenge Name | Category |
+| -------------- | -------- |
+| Cup of Compromised Joe | OSINT |
+| Compromised Immune System | OSINT |
+| SkyWave 1: High Tower | SkyWave, SQL |
+| SkyWave 2: Trifecta | SkyWave, SQL|
+| Winning Factors | Programming |
+| Big Fish | Phantom Operators, Traffic Analysis |
+| SkyWave 9: Updates | SkyWave, SQL |
+| SkyWave 3: Rabbit Ears | SkyWave, SQL |
+| Something in the Dark | Steganography |
+| Ides-le Talk | Crypto
+| Image of the Beast | Cereal Killer, Steganography |
+| Cereal Killer 01 | Cereal Killer, Reverse Engineering |
+| Social Pressuse | Crypto |
+| She's got Issues | Cereal Killer, OSINT |
+| Cereal Killer 02 | Cereal Killer, Reverse Engineering |
+| Let Me In | TrendyTrove, SQL & Web |
+| Cereal Killer 05 | Cereal Killer, Reverse Engineering |
+| Password | Phantom Operators, Traffic Analysis |
+| Suspicious Sender | Phantom Operators, Traffic Analysis |
+| Electric Soldiers | Steganography |
+| Offsite Targets | Steganography |
+| Syncopated Beat | Steganography |
+| SkyWave 4: Longest Run| SkyWave, SQL |
+| Logical Left and Rational Right | Crypto |
+| Data Breach | Traffic Analysis |
+| Mal-Where is My Mind 00 | Mal-Where is My Mind, Reverse Engineering |
+| Mal-Where is My Mind 01 | Mal-Where is My Mind, Reverse Engineering |
+| Mal-Where is My Mind 02 | Mal-Where is My Mind, Reverse Engineering |
+| Landing Zone | Hostbusters, ... |
+| Mind Your Surroundings | Hostbusters, ... |
+| Mal-Where is My Mind 03 | Mal-Where is My Mind, Reverse Engineering |
+| Short-Term | Hostbusters, ... |
+| Price Check | Steganography |
+| Eavesdropper | Hostbusters, ... |
+| Send It | Hostbusters, ... |
+| Missing Pieces | Programming |
+| Cereal Killer 03 | Cereal Killer, Reverse Engineering |
+| Wild Wild West | Traffic Analysis |
+| Right Time | Phantom Operators |
+| SkyWave 5: Connections | SkyWave |
 
-[
-  Format for the general CTF categories, the challenges and the categories of this CTF:
-    - Category as presented in this CTF
-      - Name of the challenge / general CTF category (indicator for the flag)
-]: <>
+![alt](Deadface_Category_Breakdown.png)
 
-The categories and challenges on which we worked:
-- Cereal Killer
-  - Cereal Killer 01 / Reverse Engineering (got the flag)
-  - Image of the beast / Steganography (got the flag)
-  - She's Got Issues / OSINT (got the flag)
-- Cryptography
-  - Ides-le Talk / Cryptography (got the flag)
-  - Social Pressure / Cryptography (got the flag)
-  - Logical_Left_and_Rational_Right / Cryptography (got the flag)
-- OSINT
-  - Cup of Compromised Joe / OSINT (got the flag)
-  - Compromised Immune System / OSINT (got the flag)
-  - Let's Meet / OSINT & Steganography
-- Programming
-  - Winning Factors (got the flag)
-- SkyWave
-    - 1 High Tower / SQL (got the flag)
-    - 2 Trifecta / SQL (got the flag)
-    - 9 Updates / SQL (got the flag)
-    - 3 Rabbit Ears / SQL (got the flag)
-    - 4 Longest Run / SQL (got the flag)
-    - 5 Connections / SQL (got the flag)
-    - 6 Handoff / SQL
-- Steganography
-- Phantom Operators
-  - Big Fish / Traffic Analysis (got the flag)
-  - Right Time / Forensics & Memory Analysis
-  - Password / Traffic Analysis (got the flag)
-  - Suspicious Sender / Traffic Analysis (got the flag)
-- Traffic Analysis
-  - Data Breach
+# Challenges Attempted
+| Challenge Name | Category |
+| -------------- | -------- |
+| Let's Meet | OSINT & Steganography |
+| SkyWave 6: Handoff | SkyWave, SQL |
+
+# Writeups
+- [DEADFACE CTF 2024 Walkthroughs, by TheZeal0t](https://www.youtube.com/watch?v=YXRf9HqrYg4) (Official)
