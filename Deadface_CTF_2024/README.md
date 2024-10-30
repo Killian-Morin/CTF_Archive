@@ -52,4 +52,11 @@ We do not include any Welcome or Start Up challenges (2 in this CTF).
 | SkyWave 6: Handoff | SkyWave, SQL |
 
 # Writeups
-- [DEADFACE CTF 2024 Walkthroughs, by TheZeal0t](https://www.youtube.com/watch?v=YXRf9HqrYg4) (Official)
+- [DEADFACE CTF 2024 Walkthroughs, by TheZeal0t](https://www.youtube.com/watch?v=YXRf9HqrYg4)
+- [DEADFACE CTF 2024 Steganography Write-Up](https://cyberhacktics.com/deadface-ctf-2024-steganography-write-up/)
+- [DEADFACE CTF some Crypto and OSINT](https://medium.com/@Thetruthseeker613284/deadface-2024-rp01-writeups-8d9363bbc530)
+- [DEADFACE CTF some OSINT, Forensics and Crypto](https://mghacker.notion.site/DEADFACE-CTF-WriteUps-123c219ae31e8062b11ef56fd677088a)
+- [DEADFACE CTF some Crypto and Reverse Engineering](https://github.com/D0pp3lgang3r/CTF-WU/blob/master/DEADFACE/wu.md)
+- [DEADFACE CTF some Crypto, SQL, Traffic Analysis, MISC](https://github.com/x03ee/DeadFaceCTF-2024)
+- [DEADFACE CTF some MISC/PWN](https://rmi78.github.io/posts/Deadface-CTF/)
+- [DEADFACE CTF some Forensics](https://right-owl-ed2.notion.site/Deadface-Writeup-126135448db880d6b975d792efe4f2fe)
