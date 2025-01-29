@@ -1,0 +1,112 @@
+[2025-01-22 14:00:04] INFO: Debugging: Standby for more information.
+[2025-01-22 14:00:07] MALICIOUS: Encoded word detected: ercbafr
+[2025-01-22 14:00:22] DEBUG: Normal operation restored.
+[2025-01-22 14:00:29] DEBUG: System alert reset by User-ID: Admin123.
+[2025-01-22 14:00:40] DEBUG: Unauthorized access attempt detected.
+[2025-01-22 14:00:40] DEBUG: Normal operation restored.
+[2025-01-22 14:00:48] DEBUG: Unauthorized access attempt detected.
+[2025-01-22 14:00:50] MALICIOUS: Connection established to autopilot system.
+[2025-01-22 14:00:54] DEBUG: Connection established to autopilot system.
+[2025-01-22 14:00:59] DEBUG: Debugging: Standby for more information.
+
+[2025-01-22 14:01:01] MALICIOUS: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:01:02] WARNING: Normal operation restored.
+[2025-01-22 14:01:07] DEBUG: Connection established to autopilot system.
+[2025-01-22 14:01:08] MALICIOUS: Normal operation restored.
+[2025-01-22 14:01:13] WARNING: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:01:18] DEBUG: Encoded word detected: KDFNGD\~dPbCbiU6H
+[2025-01-22 14:01:23] MALICIOUS: Unauthorized access attempt detected.
+[2025-01-22 14:01:34] MALICIOUS: System alert reset by User-ID: Admin123.
+[2025-01-22 14:01:38] DEBUG: Unauthorized access attempt detected.
+[2025-01-22 14:01:39] MALICIOUS: Normal operation restored.
+[2025-01-22 14:01:43] INFO: System alert reset by User-ID: Admin123.
+[2025-01-22 14:01:44] INFO: Connection established to autopilot system.
+[2025-01-22 14:01:53] DEBUG: Debugging: Standby for more information.
+
+[2025-01-22 14:02:10] MALICIOUS: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:02:14] DEBUG: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:02:15] INFO: Unauthorized access attempt detected.
+[2025-01-22 14:02:24] INFO: System alert reset by User-ID: Admin123.
+[2025-01-22 14:02:31] DEBUG: Debugging: Standby for more information.
+[2025-01-22 14:02:38] MALICIOUS: Normal operation restored.
+[2025-01-22 14:02:39] WARNING: Connection established to autopilot system.
+[2025-01-22 14:02:46] DEBUG: System alert reset by User-ID: Admin123.
+[2025-01-22 14:02:46] DEBUG: Unauthorized access attempt detected.
+[2025-01-22 14:02:49] MALICIOUS: Normal operation restored.
+[2025-01-22 14:02:52] MALICIOUS: Normal operation restored.
+[2025-01-22 14:02:58] WARNING: System alert reset by User-ID: Admin123.
+
+[2025-01-22 14:03:00] INFO: Connection established to autopilot system.
+[2025-01-22 14:03:05] WARNING: Connection established to autopilot system.
+[2025-01-22 14:03:08] DEBUG: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:03:20] MALICIOUS: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:03:25] INFO: The most secure password is often the simplest one.
+[2025-01-22 14:03:32] INFO: Unauthorized access attempt detected.
+[2025-01-22 14:03:36] INFO: Normal operation restored.
+[2025-01-22 14:03:41] INFO: System alert reset by User-ID: Admin123.
+[2025-01-22 14:03:49] WARNING: Encoded word detected: 636c6566
+[2025-01-22 14:03:49] MALICIOUS: Unauthorized access attempt detected.
+[2025-01-22 14:03:56] WARNING: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:03:59] DEBUG: Normal operation restored.
+
+[2025-01-22 14:04:07] DEBUG: Normal operation restored.
+[2025-01-22 14:04:10] DEBUG: Unauthorized access attempt detected.
+[2025-01-22 14:04:11] INFO: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:04:21] INFO: System alert reset by User-ID: Admin123.
+[2025-01-22 14:04:21] DEBUG: Normal operation restored.
+[2025-01-22 14:04:31] WARNING: Connection established to autopilot system.
+[2025-01-22 14:04:33] MALICIOUS: Normal operation restored.
+[2025-01-22 14:04:34] MALICIOUS: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:04:51] MALICIOUS: System alert reset by User-ID: Admin123.
+[2025-01-22 14:04:52] DEBUG: Unauthorized access attempt detected.
+[2025-01-22 14:04:57] WARNING: Connection established to autopilot system.
+
+[2025-01-22 14:05:07] WARNING: Normal operation restored.
+[2025-01-22 14:05:22] MALICIOUS: System alert reset by User-ID: Admin123.
+[2025-01-22 14:05:33] INFO: Unauthorized access attempt detected.
+[2025-01-22 14:05:53] INFO: System alert reset by User-ID: Admin123.
+[2025-01-22 14:05:54] MALICIOUS: Connection established to autopilot system.
+[2025-01-22 14:05:55] DEBUG: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:05:56] WARNING: Encoded word detected: 0110001011111011011000110110100001100101
+
+[2025-01-22 14:06:05] INFO: Unauthorized access attempt detected.
+[2025-01-22 14:06:14] WARNING: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:06:17] WARNING: System alert reset by User-ID: Admin123.
+[2025-01-22 14:06:31] INFO: Debugging: Standby for more information.
+[2025-01-22 14:06:34] WARNING: Normal operation restored.
+[2025-01-22 14:06:50] WARNING: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:06:57] INFO: Unauthorized access attempt detected.
+
+[2025-01-22 14:07:15] WARNING: System alert reset by User-ID: Admin123.
+[2025-01-22 14:07:19] MALICIOUS: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:07:19] DEBUG: Normal operation restored.
+[2025-01-22 14:07:24] WARNING: Connection established to autopilot system.
+[2025-01-22 14:07:26] WARNING: Unauthorized access attempt detected.
+[2025-01-22 14:07:26] DEBUG: Debugging: Standby for more information.
+[2025-01-22 14:07:42] WARNING: Normal operation restored.
+[2025-01-22 14:07:57] WARNING: Debugging: Standby for more information.
+
+[2025-01-22 14:08:01] MALICIOUS: Debugging: Standby for more information.
+[2025-01-22 14:08:02] DEBUG: System alert reset by User-ID: Admin123.
+[2025-01-22 14:08:05] WARNING: Debugging: Standby for more information.
+[2025-01-22 14:08:15] WARNING: System alert reset by User-ID: Admin123.
+[2025-01-22 14:08:30] DEBUG: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:08:31] INFO: Unauthorized access attempt detected.
+[2025-01-22 14:08:35] INFO: Normal operation restored.
+[2025-01-22 14:08:36] WARNING: Normal operation restored.
+[2025-01-22 14:08:38] MALICIOUS: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:08:41] DEBUG: System alert reset by User-ID: Admin123.
+[2025-01-22 14:08:48] INFO: Unauthorized access attempt detected.
+[2025-01-22 14:08:49] DEBUG: Normal operation restored.
+[2025-01-22 14:08:50] INFO: Sometimes the answer is just three steps ahead.
+[2025-01-22 14:08:58] MALICIOUS: System alert reset by User-ID: Admin123.
+
+[2025-01-22 14:09:01] MALICIOUS: Debugging: Standby for more information.
+[2025-01-22 14:09:11] WARNING: System alert reset by User-ID: Admin123.
+[2025-01-22 14:09:24] MALICIOUS: Normal operation restored.
+[2025-01-22 14:09:33] MALICIOUS: Unauthorized access attempt detected.
+[2025-01-22 14:09:33] DEBUG: Warning: Unusual behavior detected in subsystem.
+[2025-01-22 14:09:36] MALICIOUS: Encoded word detected: c29sdXRpb24=
+[2025-01-22 14:09:45] WARNING: Debugging: Standby for more information.
+
+[2025-01-22 14:10:00] DEBUG: Normal operation restored.

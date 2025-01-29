@@ -1,0 +1,139 @@
+∇ReadAndProcessFile
+[1]       ⍝ Read the content of flag.txt.enc
+[2]       encContent ← ⊃⎕NREAD 'flag.txt.enc' 82 ⎕NSIZE 'flag.txt.enc'
+[3]
+[4]       ⍝ Placeholder for processing logic (identity function here)
+[5]       processedContent ← encContent ⍝ Replace with your decryption/processing logic
+[6]
+[7]       ⍝ Write the processed content into flag.txt
+[8]       ⎕NWRITE 'flag.txt' 82 processedContent
+[9]       ⍝ Optionally display the result
+[10]      processedContent ⎕← 'Content written to flag.txt:'
+∇
+ReadAndProcessFile
+)OFF
+∇ReadAndProcessFile
+[1]       ⍝ Read the content of flag.txt.enc
+[2]       encContent ← ⊃⎕NREAD 'flag.txt.enc' 82 ⎕NSIZE 'flag.txt.enc'
+[3]
+[4]       ⍝ Placeholder for processing logic (identity function here)
+[5]       processedContent ← encContent ⍝ Replace with your decryption/processing logic
+[6]
+[7]       ⍝ Write the processed content into flag.txt
+[8]       ⎕NWRITE 'flag.txt' 82 processedContent
+[9]       ⍝ Optionally display the result
+[10]      processedContent ⎕← 'Content written to flag.txt:'
+∇
+)OFF
+∇ReadAndProcessFile
+[1]       ⍝ Read the content of flag.txt.enc
+[2]       encContent ← ⊃⎕NREAD 'flag.txt.enc' 82 ⎕NSIZE 50
+[3]
+[4]       ⍝ Write the processed content into flag.txt
+[5]       ⎕NWRITE 'flag.txt' 82 processedContent
+[6]       ⍝ Optionally display the result
+[7]       processedContent ⎕← 'Content written to flag.txt:'
+∇
+ReadAndProcessFile
+∇ ReadAndProcessFile
+⍝ Read the content of flag.txt.enc
+encContent ← ⊃⎕NREAD 'flag.txt.enc' 1 ⎕NSIZE 50
+⍝ Write the processed content into flag.txt
+⎕NWRITE 'flag.txt' 1 processedContent
+⍝ Optionally display the result
+processedContent ⎕← 'Content written to flag.txt:'
+∇
+)OFF
+∇ReadAndProcessFile
+[1]       ⍝ Read the content of flag.txt.enc
+[2]       encContent ← ⊃⎕NREAD 'flag.txt.enc' 1 ⎕NSIZE 50
+[3]
+[4]       ⍝ Write the processed content into flag.txt
+[5]       ⎕NWRITE 'flag.txt' 1 processedContent
+[6]       ⍝ Optionally display the result
+[7]       processedContent ⎕← 'Content written to flag.txt:'
+∇
+ReadAndProcessFile
+)OFF
+∇ReadAndProcessFile
+[1]       ⍝ Get the file size using NSIZE
+[2]       fileSize ← ⎕NSIZE 'flag.txt.enc'
+[3]
+[4]       ⍝ Read the content of flag.txt.enc (textual mode)
+[5]       encContent ← ⊃⎕NREAD 'flag.txt.enc' 1 fileSize
+[6]
+[7]       ⍝ Write the processed content into flag.txt
+[8]       ⎕NWRITE 'flag.txt' 1 processedContent
+[9]       ⍝ Optionally display the result
+[10]      processedContent ⎕← 'Content written to flag.txt:'
+∇
+ReadAndProcessFile
+)OFF
+∇ReadAndProcessFile
+[1]       ⍝ Open the file in read mode
+[2]       fileHandle ← ⎕NTIE 0 'flag.txt.enc'
+[3]
+[4]       ⍝ Read all lines from the file
+[5]       encContent ← ⎕NREAD fileHandle 1 ⍬
+[6]
+[7]       ⍝ Close the file
+[8]       ⎕NUNTIE fileHandle
+[9]
+[10]      ⍝ Write the processed content into flag.txt
+[11]      outHandle ← ⎕NTIE 1 'flag.txt'
+[12]      ⎕NWRITE outHandle 1 processedContent
+[13]      ⎕NUNTIE outHandle
+[14]
+[15]      ⍝ Optionally display the result
+[16]      processedContent ⎕← 'Content written to flag.txt:'
+∇
+ReadAndProcessFile
+)OFF
+)LOAD ReadAndProcessFile.dyalog
+)LOAD ReadAndProcessFile.dyalog
+)OFF
+)LOAD ReadAndProcessFile.apl
+)OFF
+∇ReadAndProcessFile
+[1]       ⍝ Open the file and read its content
+[2]       fileName ← 'flag.txt.enc'
+[3]       encContent ← ⎕CR 'cat ', fileName  ⍝ Reads file content as text
+[4]
+[5]       ⍝ Write the processed content into flag.txt
+[6]       ⎕← 'Writing to flag.txt...'
+[7]       processedContent ⎕CW 'cat > flag.txt'
+∇
+ReadAndProcessFile
+)OFF
+∇ReadAndProcessFile
+[1]       ⍝ Open the file and read its content
+[2]       fileName ← 'flag.txt.enc'
+[3]       encContent ← ⎕CR 'cat ', fileName  ⍝ Reads file content as text
+[4]
+[5]       ⍝ Write the processed content into flag.txt
+[6]       ⎕← 'Writing to flag.txt...'
+[7]       processedContent ⎕CW 'echo > flag.txt'
+∇
+ReadAndProcessFile
+)LOAD ReadAndProcessFile.apl
+)OFF
+∇ReadAndProcessFile
+[1]       ⍝ Open the file and read its content
+[2]       fileName ← 'flag.txt.enc'
+[3]       encContent ← ⎕CR 'cat ', fileName  ⍝ Reads file content as text
+[4]
+[5]       ⍝ Display confirmation
+[6]       'Content written to flag.txt:', processedContent ⎕← ''
+∇
+ReadAndProcessFile
+)OFF
+    ∇ReadAndProcessFile
+[1]       ⍝ Open the file and read its content
+[2]       fileName ← 'flag.txt.enc'
+[3]       encContent ← ⎕CR 'cat ', fileName  ⍝ Reads file content as text
+[4]
+[5]       ⍝ Display confirmation
+[6]       'Content written to flag.txt:', encContent ⎕← ''
+∇
+ReadAndProcessFile
+)OFF
