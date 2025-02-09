@@ -8,6 +8,7 @@ Archives of all CTF and their challenges in which 418WAT participated in.
 | CTF MetaRed Mexico Anuies-TIC 2024 | October 15-16 (12h) | https://ctfd.anuies.mx/ | 3 | 98th |
 | DEADFACE CTF 2024 | October 18-19 (34h) | https://ctf.deadface.io/ | 40 | 87th |
 | HackDay 2025 - Qualifications | January 24-26 (48h) | https://hackday.fr/en/home/ | 9 | 93th/150 |
+| BITS CTF 2025 | February 7-9 (48h) | https://ctf.bitskrieg.in/ | 5 | 260/848 |
 
 * We do not include any Welcome or Start Up challenges.
 
