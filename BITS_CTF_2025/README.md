@@ -27,3 +27,4 @@ $$\color{lightgreen}\rule{200px}{1.5px}$$
 ## Writeups
 
 [Write-Up Pwn - Biscuits by our team member PH](https://phs-notebook.gitbook.io/phs-ctf-struggle/bitsctf2025/pwn-biscuits)
+[Write-Up Web & OSINT](https://github.com/E-HAX/writeups/tree/main/2025/bitsctf)
